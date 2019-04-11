@@ -1,0 +1,40 @@
+body {
+	font-family: 'Times New Roman', Times, serif;
+	background-color: lightblue;
+	color: #FFFFFF;
+	line-height: 1.8;
+}
+
+title {
+	font-size: 12pt;
+}
+
+.first {
+	color: green;
+}
+
+#home {
+	color: purple;
+}
+
+.second {
+	color: yellow;
+}
+
+.third {
+	color: red;
+}
+
+.fourth {
+	color: black;
+}
+
+h1,
+h2 {
+	color: green;
+}
+
+h1 {
+	border-bottom: 15pt;
+	font-weight: 400;
+}
